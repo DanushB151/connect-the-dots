@@ -83,7 +83,7 @@ When you want to create a crosslink, start typing the title of an issue or pull 
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Find a commit in history</h2></summary>
 
 _Thanks for the duplicate note :wave:_
@@ -162,7 +162,7 @@ When you're looking at a commit on GitHub, you can see a lot of information. Fro
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 ### Congratulations friend, you've completed this course!
